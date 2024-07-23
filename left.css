@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+ a:hover{
+   transform: scale(1.2);
+   /* font-weight: 600; */
+   font-style: italic;
+}
+span{
+    font-size: 30px;
+    color: black;
+}
+/* span:hover{
+   transform: scale(1.2);
+} */
+li{
+    font-size: 30px;
+}
